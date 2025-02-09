@@ -6,5 +6,6 @@ int main (){
     cin >> num1 >> num2;
     sum = num1 + num2;
     cout << "Sum: " << sum;
+    cout << "Hello!";
     return 0;
-}
+} 
